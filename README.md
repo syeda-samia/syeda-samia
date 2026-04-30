@@ -1,8 +1,10 @@
-## Hi there 👋
+## Syeda Samia👋
 
 # 💫 About Me:
-Aspiring Data Scientist building real-world projects with Python, data analytics, machine learning, and web-based AI applications.
 
+Data Science intern at Tecnify | Aspiring Data Scientist
+Building real-world projects with Python, data analytics, machine learning, and web‑based AI applications.
+🚀 I deploy my Data Science projects using Streamlit for interactive web apps.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syeda-samia-836960319/) 
